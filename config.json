@@ -1,6 +1,6 @@
 {
-	"host": "cocumisbuzerante.aternos.me",
-	"port": "31325",
+	"host": "UnaveragedLEOM.aternos.me",
+	"port": "29407",
 	"username": "kokotnovotny",
 	"logger": [ true
 		,"true : displays not necessary logs. (ex: key input logs)",
